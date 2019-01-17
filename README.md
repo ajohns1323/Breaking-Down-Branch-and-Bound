@@ -1,1 +1,1 @@
-# Breaking-Down-Branch-and-Bound
+# This file manually performs the branch and bound method of Integer Programming using LPsolve. The results are plotted to show feasible and infeasible points along with the maximized objective function.
